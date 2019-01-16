@@ -2,10 +2,7 @@
 #include <stdlib.h>
 
 
-void nums(){
-static int k=0;
-k++;
-}
+
 
 int main()
 {
